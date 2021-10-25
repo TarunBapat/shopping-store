@@ -1,0 +1,26 @@
+.nav{
+	background-color: #9b4747;
+
+}
+.nav-logo{
+	color: #fff;
+}
+.nav-wrapper{
+	display: flex;
+	max-width: 1200px;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+}
+.nav ul{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	list-style: none;
+}
+.nav ul li{
+	padding: 0 10px;
+	font-size: 20px;
+	color: #fff;
+	cursor: pointer;
+}

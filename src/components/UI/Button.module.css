@@ -1,0 +1,11 @@
+.btn{
+	background: #9b4747;
+    color: #fff;
+    padding: 16px 40px;
+    border-radius: 35px;
+    border: none;
+    cursor: pointer;
+}
+button[disabled]{
+    background: grey;
+}
