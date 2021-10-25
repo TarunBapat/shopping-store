@@ -1,1 +1,5 @@
 redux-toolkit
+Cart Functionality using Redux-toolkit
+Search Functionality
+Login / Logout 
+Adding user Data
